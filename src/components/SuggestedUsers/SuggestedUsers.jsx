@@ -31,7 +31,7 @@ const SuggestedUsers = () => {
       <Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
         © 2024 Built By{" "}
         <Link
-          href="https://www.instagram.com/"
+          href="https://github.com/aballinger1981"
           target="_blank"
           color={"blue.500"}
           fontSize={14}
