@@ -31,12 +31,12 @@ const SuggestedUsers = () => {
       <Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
         © 2024 Built By{" "}
         <Link
-          href="https://www.instagram.com/asaprogrammer/"
+          href="https://www.instagram.com/"
           target="_blank"
           color={"blue.500"}
           fontSize={14}
         >
-          As a Programmer
+          Andrew
         </Link>
       </Box>
     </VStack>
